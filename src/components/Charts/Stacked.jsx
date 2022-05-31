@@ -4,7 +4,7 @@ import { ChartComponent, SeriesCollectionDirective, SeriesDirective, Inject, Leg
 
 import { stackedCustomSeries, stackedPrimaryXAxis, stackedPrimaryYAxis } from '../../data/dummy';
 
-const Stacked = ({width, height}) => {
+const Stacked = ({width, height, color}) => {
   return (
     <ChartComponent width={width} 
                     height={height}
@@ -12,6 +12,7 @@ const Stacked = ({width, height}) => {
                     primaryXAxis={stackedPrimaryXAxis}
                     primaryYAxis={stackedPrimaryYAxis}
                     chartArea={{ border: { width: 0 } }}
+                    background={color}
                     tooltip={{ enable: true }}
                     legendSettings={{ background: 'white' }}
     >

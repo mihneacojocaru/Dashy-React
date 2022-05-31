@@ -3,7 +3,7 @@ import { GridComponent, ColumnsDirective, ColumnDirective, Resize, Sort, Context
 
 import {ordersData, contextMenuItems, ordersGrid} from '../data/dummy';
 
-import { Header } from '../components';
+import { Header, Footer } from '../components';
 
 
 const Orders = () => {
@@ -25,9 +25,7 @@ const Orders = () => {
         <Inject services={[Resize, Sort, ContextMenu, Filter, Page, ExcelExport, Edit, PdfExport]}/>
       </GridComponent>
     </div>
-    <div className="flex justify-center m-10 mt-24">
-    <p>© 2022 <a className="text-blue-500" href="https://mihneacojocaru.github.io/" target="_blank" rel="noreferrer">Mihnea Cojocaru</a></p>
-  </div>
+    <Footer/>
     </div>
   )
 }
