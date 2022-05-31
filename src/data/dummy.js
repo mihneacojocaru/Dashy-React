@@ -633,7 +633,7 @@ export const earningData = [
 export const recentTransactions = [
   {
     icon: <BsCurrencyDollar />,
-    amount: '+$350',
+    amount: '+350€',
     title: 'Paypal Transfer',
     desc: 'Money Added',
     iconColor: '#03C9D7',
@@ -642,7 +642,7 @@ export const recentTransactions = [
   },
   {
     icon: <BsShield />,
-    amount: '-$560',
+    amount: '-560€',
     desc: 'Bill Payment',
     title: 'Wallet',
     iconColor: 'rgb(0, 194, 146)',
@@ -651,7 +651,7 @@ export const recentTransactions = [
   },
   {
     icon: <FiCreditCard />,
-    amount: '+$350',
+    amount: '+350€',
     title: 'Credit Card',
     desc: 'Money reversed',
     iconColor: 'rgb(255, 244, 229)',
@@ -661,7 +661,7 @@ export const recentTransactions = [
   },
   {
     icon: <TiTick />,
-    amount: '+$350',
+    amount: '+350€',
     title: 'Bank Transfer',
     desc: 'Money Added',
 
@@ -671,7 +671,7 @@ export const recentTransactions = [
   },
   {
     icon: <BsCurrencyDollar />,
-    amount: '-$50',
+    amount: '-50€',
     percentage: '+38%',
     title: 'Refund',
     desc: 'Payment Sent',
@@ -907,8 +907,8 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: '$2.4k',
-    Location: 'India',
+    Budget: '€ 2.4k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1002,
@@ -922,8 +922,8 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: '$3.9k',
-    Location: 'India',
+    Budget: '€ 3.9k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1003,
@@ -936,8 +936,8 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: '$24.5k',
-    Location: 'USA',
+    Budget: '€ 24.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1004,
@@ -950,8 +950,8 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1005,
@@ -964,8 +964,8 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1006,
@@ -977,8 +977,8 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: '$2.4k',
-    Location: 'India',
+    Budget: '€ 2.4k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1007,
@@ -992,8 +992,8 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: '$3.9k',
-    Location: 'India',
+    Budget: '€ 3.9k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1008,
@@ -1006,8 +1006,8 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: '$24.5k',
-    Location: 'USA',
+    Budget: '€ 24.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1009,
@@ -1020,8 +1020,8 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1010,
@@ -1034,8 +1034,8 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1011,
@@ -1047,8 +1047,8 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: '$2.4k',
-    Location: 'India',
+    Budget: '€ 2.4k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1012,
@@ -1062,8 +1062,8 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: '$3.9k',
-    Location: 'India',
+    Budget: '€ 3.9k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1013,
@@ -1076,8 +1076,8 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: '$24.5k',
-    Location: 'USA',
+    Budget: '€ 24.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1014,
@@ -1090,8 +1090,8 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1015,
@@ -1104,8 +1104,8 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1016,
@@ -1117,8 +1117,8 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: '$2.4k',
-    Location: 'India',
+    Budget: '€ 2.4k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1017,
@@ -1132,8 +1132,8 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: '$3.9k',
-    Location: 'India',
+    Budget: '€ 3.9k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1018,
@@ -1146,8 +1146,8 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: '$24.5k',
-    Location: 'USA',
+    Budget: '€ 24.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1019,
@@ -1160,8 +1160,8 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1020,
@@ -1174,8 +1174,8 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1021,
@@ -1187,8 +1187,8 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: '$2.4k',
-    Location: 'India',
+    Budget: '€ 2.4k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1022,
@@ -1202,8 +1202,8 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: '$3.9k',
-    Location: 'India',
+    Budget: '€ 3.9k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1023,
@@ -1216,8 +1216,8 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: '$24.5k',
-    Location: 'USA',
+    Budget: '€ 24.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1024,
@@ -1230,8 +1230,8 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1025,
@@ -1244,8 +1244,8 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1026,
@@ -1257,8 +1257,8 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: '$2.4k',
-    Location: 'India',
+    Budget: '€ 2.4k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1027,
@@ -1272,8 +1272,8 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: '$3.9k',
-    Location: 'India',
+    Budget: '€ 3.9k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1028,
@@ -1286,8 +1286,8 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: '$24.5k',
-    Location: 'USA',
+    Budget: '€ 24.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1029,
@@ -1300,8 +1300,8 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1030,
@@ -1314,8 +1314,8 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1031,
@@ -1327,8 +1327,8 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: '$2.4k',
-    Location: 'India',
+    Budget: '€ 2.4k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1032,
@@ -1342,8 +1342,8 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: '$3.9k',
-    Location: 'India',
+    Budget: '€ 3.9k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1033,
@@ -1356,8 +1356,8 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: '$24.5k',
-    Location: 'USA',
+    Budget: '€ 24.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1034,
@@ -1370,8 +1370,8 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1035,
@@ -1384,8 +1384,8 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1036,
@@ -1397,8 +1397,8 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: '$2.4k',
-    Location: 'India',
+    Budget: '€ 2.4k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1037,
@@ -1412,8 +1412,8 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: '$3.9k',
-    Location: 'India',
+    Budget: '€ 3.9k',
+    Location: 'Italy',
   },
   {
     CustomerID: 1038,
@@ -1426,8 +1426,8 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: '$24.5k',
-    Location: 'USA',
+    Budget: '€ 24.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1039,
@@ -1439,8 +1439,8 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
   {
     CustomerID: 1040,
@@ -1452,8 +1452,8 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: '$16.5k',
-    Location: 'USA',
+    Budget: '€ 16.5k',
+    Location: 'Germany',
   },
 
 ];
@@ -1464,7 +1464,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar3,
@@ -1474,7 +1474,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1484,7 +1484,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1494,7 +1494,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1504,7 +1504,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1514,7 +1514,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1524,7 +1524,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1534,7 +1534,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1545,7 +1545,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1555,7 +1555,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1565,7 +1565,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1575,7 +1575,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1585,7 +1585,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1595,7 +1595,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1605,7 +1605,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar,
@@ -1615,7 +1615,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1625,7 +1625,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1635,7 +1635,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1645,7 +1645,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1655,7 +1655,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1665,7 +1665,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1675,7 +1675,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1686,7 +1686,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1696,7 +1696,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1706,7 +1706,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1716,7 +1716,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1726,7 +1726,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1736,7 +1736,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1746,7 +1746,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1757,7 +1757,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1767,7 +1767,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1777,7 +1777,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1787,7 +1787,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1797,7 +1797,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1807,7 +1807,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1817,7 +1817,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1828,7 +1828,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1838,7 +1838,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1848,7 +1848,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1858,7 +1858,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1868,7 +1868,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1878,7 +1878,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1888,7 +1888,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1899,7 +1899,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1909,7 +1909,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1919,7 +1919,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1929,7 +1929,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1939,7 +1939,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1949,7 +1949,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1959,7 +1959,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1970,7 +1970,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1980,7 +1980,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1990,7 +1990,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2000,7 +2000,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2010,7 +2010,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2020,7 +2020,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2030,7 +2030,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -2041,7 +2041,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -2051,7 +2051,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -2061,7 +2061,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2071,7 +2071,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2081,7 +2081,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2091,7 +2091,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Germany',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
