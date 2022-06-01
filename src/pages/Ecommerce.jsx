@@ -1,21 +1,20 @@
 import React from "react";
-import { BsCurrencyEuro } from "react-icons/bs";
 import { GoPrimitiveDot } from "react-icons/go";
 import {FaReact} from 'react-icons/fa';
 import { SiTailwindcss, SiHiveBlockchain, SiExpress } from "react-icons/si";
 
 
-import { Stacked, Pie, Button, SparkLine, Footer } from "../components";
+import { Stacked, Button, SparkLine, Footer } from "../components";
 import {
   earningData,
   SparklineAreaData,
-  ecomPieChartData,
   recentTransactions
-} from "../data/dummy";
+} from "../data/EcommerceData";
 
 import { useStateContext } from "../contexts/ContextProvider";
 
 const Ecommerce = () => {
+
   const { currentColor, currentMode } = useStateContext();
 
   return (

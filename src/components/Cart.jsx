@@ -1,14 +1,37 @@
 import React from 'react';
+import { useStateContext } from '../contexts/ContextProvider';
+import { Button } from '.';
+
 import { MdOutlineCancel } from 'react-icons/md';
 import { AiOutlinePlus, AiOutlineMinus } from 'react-icons/ai';
-
-import { useStateContext } from '../contexts/ContextProvider';
-import { cartData } from '../data/dummy';
-import { Button } from '.';
-import { GiConsoleController } from 'react-icons/gi';
+import{product5,product6,product7} from '../data/images';
 
 const Cart = () => {
   const { currentColor, isClicked, setIsClicked } = useStateContext();
+
+  const cartData = [
+    {
+      image:
+        product5,
+      name: 'butterscotch ice-cream',
+      category: 'Milk product',
+      price: '20€',
+    },
+    {
+      image:
+        product6,
+      name: 'Supreme fresh tomato',
+      category: 'Vegetable Item',
+      price: '10€',
+    },
+    {
+      image:
+        product7,
+      name: 'Red color candy',
+      category: 'Food Item',
+      price: '15€',
+    },
+  ];
 
   const closeFieldHandler = () => {
    setIsClicked({...isClicked,cart:false});

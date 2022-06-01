@@ -1,11 +1,43 @@
 import React from 'react';
-import { MdOutlineCancel } from 'react-icons/md';
-
-import { Button } from '.';
-import { chatData } from '../data/dummy';
 import { useStateContext } from '../contexts/ContextProvider';
 
+import { MdOutlineCancel } from 'react-icons/md';
+import { Button } from '.';
+import {avatar,avatar2,avatar3,avatar4} from '../data/images';
+
 const Notification = () => {
+
+  const chatData = [
+    {
+      image:
+        avatar2,
+      message: 'Roman Joined the Team!',
+      desc: 'Congratulate him',
+      time: '9:08 AM',
+    },
+    {
+      image:
+        avatar3,
+      message: 'New message received',
+      desc: 'Salma sent you new message',
+      time: '11:56 AM',
+    },
+    {
+      image:
+        avatar4,
+      message: 'New Payment received',
+      desc: 'Check your earnings',
+      time: '4:39 AM',
+    },
+    {
+      image:
+        avatar,
+      message: 'Jolly completed tasks',
+      desc: 'Assign her new tasks',
+      time: '1:12 AM',
+    },
+  ];
+
   const { currentColor, isClicked, setIsClicked } = useStateContext();
 
   const closeFieldHandler = () => {
